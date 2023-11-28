@@ -30,7 +30,7 @@ const CardButton = ({ onPress, crown, title, description }) => (
       </SubHeader>
       <HintHeader
         style={{
-          fontSize: 14,
+          fontSize: 15,
           marginBottom: 0,
         }}
       >
